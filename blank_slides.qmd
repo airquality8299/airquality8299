@@ -1,0 +1,62 @@
+---
+title: "Practice Presentations"
+format: revealjs
+---
+
+## ABOUT DATA
+These brief presentations about data will allow you to exercise your R and git skills with collaborators, use the following structure to organize your report.  
+
+
+```{r, echo = TRUE}
+# Displays code in slides
+
+```
+
+```{r, eval = TRUE, echo = FALSE}
+# Run code, do not display code
+
+```
+
+```{r, eval = FALSE, echo = TRUE}
+# Display code, DO NOT run code
+
+```
+
+
+## Summary Stats (Calculations)
+What are all the variables?
+Which variables may be predictors/outcomes?
+How are the variables distributed?
+
+```{r}
+
+```
+
+## Summary Stats (Graphics)
+Use boxplots to check for outliers. Eliminate entries outside of the fence.
+Use histogram to further explore variable distributions.
+```{r, fig.align='center'}
+# ALIGN your figures to the center of the slide
+
+```
+
+
+## Relationships
+Normalize your variables, which variables are correlated, are any of your variables co-linear.
+
+
+```{r, eval = T, echo = F}
+
+```
+
+## Visualization or Analysis
+
+```{r}
+
+```
+
+## Visualization or Analysis
+
+```{r}
+
+```
